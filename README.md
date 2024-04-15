@@ -72,3 +72,7 @@ As I wanna hide the whole PCB behind an acrylic glass (transparent) I've designe
 <img src="docs/reflowoven_complete.JPG" width="450px"></a>
 
 <img src="docs/reflowoven_display_user.JPG" width="450px"></a>
+
+## Changelog
+2024.03.31 - sillyc0n - exposed RX, TX on the PCB for serial console
+2024.04.14 - sillyc0n - added board definition and updates for ESP32-S2FH2
