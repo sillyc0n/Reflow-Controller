@@ -76,3 +76,4 @@ As I wanna hide the whole PCB behind an acrylic glass (transparent) I've designe
 ## Changelog
 - 2024.03.31 - sillyc0n - exposed RX, TX on the PCB for serial console
 - 2024.04.14 - sillyc0n - added board definition and updates for ESP32-S2FH2
+- 2024.04.23 - sillyc0n - support HiLink 5M05 and others in the series
